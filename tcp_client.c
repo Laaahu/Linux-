@@ -5,7 +5,7 @@
 #include <arpa/inet.h>
 #include <stdlib.h>
 
-#define SERV_PORT 8888
+#define SERV_PORT 9999
 
 int main(int argc, char* argv[])
 {
